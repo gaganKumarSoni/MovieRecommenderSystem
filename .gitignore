@@ -1,0 +1,15 @@
+recsys/.ipynb_checkpoints
+recsys/etc
+recsys/Include
+recsys/Lib
+recsys/Scripts
+recsys/share
+recsys/pyvenv.cfg
+**/pyvenv.cfg
+**/share
+**/Scripts
+**/Lib
+**/Include
+**/etc
+sim.pkl
+.ipynb_checkpoints
